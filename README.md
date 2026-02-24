@@ -1,4 +1,5 @@
 Step-by-Step: Deploy Angular App to GitHub Pages
+
 1️⃣ Install the Pages deploy package
 Open your project folder locally and run:
 ng add angular-cli-ghpages
